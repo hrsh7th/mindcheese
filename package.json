@@ -38,7 +38,7 @@
   },
   "files": [
     "dist/*.js",
-    "styles/*.css",
-    "types/**/*.d.ts"
+    "dist/types/**/*.d.ts",
+    "styles/*.css"
   ]
 }
